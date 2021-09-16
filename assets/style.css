@@ -60,7 +60,7 @@ footer a {
   }
   .hero {
     height: 600px;
-    background-image: url("/Users/cartersupple/Documents/run-buddy/assets/images/hero-bg.jpeg");
+    background-image: url("./images/hero-bg.jpeg");
     background-size: cover;
     background-position: center;
     position: relative;
