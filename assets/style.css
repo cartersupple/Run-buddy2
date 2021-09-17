@@ -106,7 +106,7 @@ footer a {
 .intro {
     text-align: center;
   }
-  }
+  
   .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -197,6 +197,14 @@ footer a {
   }
   
   .trainer-bio p {
+    font-size: 17px;
+    line-height: 1.3;
+  }
+  .contact-info p{
+    font-size: 17px;
+    line-height: 1.3;
+  }
+  .contact-info address{
     font-size: 17px;
     line-height: 1.3;
   }
